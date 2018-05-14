@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="12" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="1" failures="0" errors="0" time="12" timestamp="2018-05-14 11:24:26" hostname="ionut.ciobanu - LENOVO0187.corp.gaminginnovationgroup.com" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ionu.ciobanu\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180514_112420"/>
+         <property name="logFiles" value="C:\\Users\\ionu.ciobanu\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180514_112420\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ionut.ciobanu - LENOVO0187.corp.gaminginnovationgroup.com"/>
+         <property name="os" value="Windows 10 32bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 65.0.3325.181"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="35dc3149391a461c7911672af1ef0419"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test 1 by Tom" classname="Test Cases/Test 1 by Tom" status="PASSED">
+         <system-out><![CDATA[2018-05-14 11:24:26 - [TEST_CASE][PASSED] - Test Cases/Test 1 by Tom: Test Cases/Test 1 by Tom
+
+2018-05-14 11:24:26 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-14 11:24:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-14 11:24:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://lifecharger.org' successfully
+
+2018-05-14 11:24:37 - [MESSAGE][PASSED] - Navigate to 'http://lifecharger.org' successfully
+
+2018-05-14 11:24:37 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-14 11:24:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-14 11:24:26 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Test 1 by Tom]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
