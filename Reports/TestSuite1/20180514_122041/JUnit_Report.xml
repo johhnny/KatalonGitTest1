@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="8" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="1" failures="0" errors="0" time="8" timestamp="2018-05-14 12:20:47" hostname="ionut.ciobanu - LENOVO0187.corp.gaminginnovationgroup.com" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ionu.ciobanu\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180514_122041"/>
+         <property name="logFiles" value="C:\\Users\\ionu.ciobanu\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180514_122041\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ionut.ciobanu - LENOVO0187.corp.gaminginnovationgroup.com"/>
+         <property name="os" value="Windows 10 32bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 65.0.3325.181"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="37183b3ff07c609e7f78af2c3581019b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test 2 by Kim" classname="Test Cases/Test 2 by Kim" status="PASSED">
+         <system-out><![CDATA[2018-05-14 12:20:47 - [TEST_CASE][PASSED] - Test Cases/Test 2 by Kim: Test Cases/Test 2 by Kim
+
+2018-05-14 12:20:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'www.katalon.com'
+
+2018-05-14 12:20:54 - [MESSAGE][PASSED] - Browser is opened with url: 'www.katalon.com'
+
+2018-05-14 12:20:54 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-14 12:20:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-14 12:20:47 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Test 2 by Kim]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
